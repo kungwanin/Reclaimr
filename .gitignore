@@ -1,3 +1,4 @@
 node_modules/
 serviceAccountKey.json
+firebase/auth_config.js
 .env
